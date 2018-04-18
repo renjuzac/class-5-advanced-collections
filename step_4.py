@@ -1,6 +1,3 @@
-from data import products_string
-from  pprint import pprint
-
 from step_1 import transform_products_to_list
 from step_3 import group_products_by_customer_and_invoice
 
